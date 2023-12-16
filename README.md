@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @KHAYYAM-SHAH
-- 👀 I’m interested in learning softwares and websites
-- 🌱 I’m currently learning initial html, css and javascript for websites
+- 👋 Hi, I’m KHAYYAM SHAH
+- 👀 I’m working as a web developer and currently engaged in various web related projects
+- 🌱 I’m currently learning javascript, react and other skills
+- 📝 Can sort your problems related to HTML, CSS and Database managment
+- Reach me out at:
+- 📧: khayyam7890hotmail@gmail.com
+- I love SOLVING PROBLEMS😊
+- 
 
 <!---
 KHAYYAM-SHAH/KHAYYAM-SHAH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
