@@ -2,8 +2,7 @@
 - 👀 I’m working as a web developer and currently engaged in various web related projects
 - 🌱 I’m currently learning javascript, react and other skills
 - 📝 Can sort your problems related to HTML, CSS and Database managment
-- Reach me out at:
-- 📧: khayyam7890hotmail@gmail.com
+- Reach me out at: khayyam7890hotmail@gmail.com
 - I love SOLVING PROBLEMS😊
 - 
 
