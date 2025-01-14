@@ -1,8 +1,8 @@
 - 👋 Hi, I’m KHAYYAM SHAH
 - 🏫 Doing my BSE form CAPITAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ISLAMABD, PAKISTAN
 - 👀 I’m working as a web developer and currently engaged in various web related projects
-- 🌱 I’m currently learning javascript, react and other skills
-- 📝 Can sort your problems related to HTML, CSS and Database managment
+- 🌱 I’m currently wokring on Full Stack Development and Machine Learning
+- 📝 Can sort your problems related to WEb and ML
 - Reach me out at: khayyam7890hotmail@gmail.com
 - I love SOLVING PROBLEMS😊
 - 
