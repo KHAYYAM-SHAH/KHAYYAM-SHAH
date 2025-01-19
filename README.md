@@ -2,7 +2,7 @@
 - 🏫 Doing my BSE form CAPITAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ISLAMABD, PAKISTAN
 - 👀 I’m working as a web developer and currently engaged in various web related projects
 - 🌱 I’m currently wokring on Full Stack Development and Machine Learning
-- 📝 Can sort your problems related to WEb and ML
+- 📝 Can sort your problems related to Web and Machine Learning
 - Reach me out at: khayyam7890hotmail@gmail.com
 - I love SOLVING PROBLEMS😊
 - 
