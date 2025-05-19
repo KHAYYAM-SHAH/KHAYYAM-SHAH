@@ -5,8 +5,8 @@
 - 📱 Currently developing my Final Year Project – a mobile app blending AI & healthcare.
 - 🛠️ I’ve worked with real clients, contributing to projects using WordPress, custom web stacks, and AI-based systems.
 - 🌱 Actively learning and building in Full Stack Development & Machine Learning.
-- 📫 Let's connect Email: khayyamshah750@gmail.com
-   or linkedIn: 
+- 📫 Let's connect through Email: khayyamshah750@gmail.com
+   or linkedIn: https://www.linkedin.com/in/khayyam-shah-0a76a6233/
 - 📂 Check out my work: GitHub.com/KHAYYAM-SHAH.
 - 🚀 I love solving real-world problems through code!
 
