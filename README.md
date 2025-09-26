@@ -10,6 +10,8 @@
 - 📂 Check out my work: GitHub.com/KHAYYAM-SHAH.
 - 🚀 I love solving real-world problems through code!
 
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 <!---
 KHAYYAM-SHAH/KHAYYAM-SHAH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
