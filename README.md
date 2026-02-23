@@ -4,16 +4,17 @@
 </p>
 
 <h1 align="center">I'm Khayyam Shah 👨‍💻</h1>
-<h3 align="center">Final Year Software Engineering Student | Web Developer | AI & ML Enthusiast</h3>
+<h3 align="center">Software Engineer | Web Developer | AI & ML Enthusiast</h3>
 
 
 ---
 
 ### 🚀 About Me  
-- 🎓 Studying **Software Engineering** at *Capital University of Science and Technology, Islamabad*  
-- 💻 Passionate about **Web Development, Artificial Intelligence & Machine Learning**  
+- 🎓 Completed my Bachelor’s in Software Engineering from Capital University of Science and Technology, Islamabad. 
+- 💻 Seeking knowledge in **Web Development, Artificial Intelligence & Machine Learning**  
 - 🛠️ Experienced with **WordPress, Squarespace, custom web stacks, AI-based systems**  
-- 📱 Currently developing my **FYP: AI-powered healthcare mobile app**  
+- 📱  Done my Final Year Project on Kidney Stone Detetction App called as **RAYSCAN**
+      which is a AI powered Health care App
 - 🌱 Exploring **Full Stack Development, Data Science & ML frameworks**  
 - 🤝 Open to collaboration on **Web & AI/ML projects**  
 
