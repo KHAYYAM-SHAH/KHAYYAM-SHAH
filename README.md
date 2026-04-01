@@ -1,8 +1,3 @@
-<!-- Profile Header with Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">I'm Khayyam Shah 👨‍💻</h1>
 <h3 align="center">Software Engineer | Web Developer | AI & ML Enthusiast</h3>
 
