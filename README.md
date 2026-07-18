@@ -14,7 +14,9 @@ Myself Khayyam Shah, and I am actively wokring in field of Software Engineering 
 - 🤝 Open to collaboration on **Web & AI/ML projects**
 
   If your are more curious about me and my work, feel free to visit on my 
+  
   LinkedIn profile here: www.linkedin.com/in/khayyam-shah
+  
   Also you can visit our GLOBAL NET BUZZ agency here: https://globalnetbuzz.lovable.app
 
   
