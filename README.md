@@ -5,7 +5,9 @@
 ---
 
 ### 🚀 About Me  
-Myself Khayyam Shah, and I am actively wokring in field of Software Engineering and running my own Software Agency "GLOBAL NET BUZZ".
+You must be thinking about me so let me introduce myself.
+
+I am actually a Software Engineer like many others but the major thing that differs me from others is my own Software Agency "GLOBAL NET BUZZ" and our way of communication with the clients understanding their problems and solving them.
 
 - 🎓 Completed my Bachelor’s in Software Engineering from Capital University of Science and Technology, Islamabad. 
 - 💻 Actively working on **Web Development, Artificial Intelligence, Machine Learning, SEO and Marketing**  
