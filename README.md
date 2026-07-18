@@ -5,14 +5,19 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Completed my Bachelor’s in Software Engineering from Capital University of Science and Technology, Islamabad. 
-- 💻 Seeking knowledge in **Web Development, Artificial Intelligence & Machine Learning**  
-- 🛠️ Experienced with **WordPress, Squarespace, custom web stacks, AI-based systems**  
-- 📱  Done my Final Year Project on Kidney Stone Detetction App called as **RAYSCAN**
-      which is a AI powered Health care App
-- 🌱 Exploring **Full Stack Development, Data Science & ML frameworks**  
-- 🤝 Open to collaboration on **Web & AI/ML projects**  
+Myself Khayyam Shah, and I am actively wokring in field of Software Engineering and running my own Software Agency "GLOBAL NET BUZZ".
 
+- 🎓 Completed my Bachelor’s in Software Engineering from Capital University of Science and Technology, Islamabad. 
+- 💻 Actively working on **Web Development, Artificial Intelligence, Machine Learning, SEO and Marketing**  
+- 🛠️ Experienced with **WordPress, Squarespace, custom web stacks, AI-based systems, SEO**
+- 🌱 Exploring **Full Stack Development, Data Science & ML frameworks**  
+- 🤝 Open to collaboration on **Web & AI/ML projects**
+
+  If your are more curious about me and my work, feel free to visit on my 
+  LinkedIn profile here: www.linkedin.com/in/khayyam-shah
+  Also you can visit our GLOBAL NET BUZZ agency here: https://globalnetbuzz.lovable.app
+
+  
 ---
 
 
